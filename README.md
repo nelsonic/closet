@@ -1,11 +1,16 @@
 # The Closet
 
-Been on a bit of a (non-coding) tangent today...
-Decided to *document* it for posterity.
-
 What would ***you*** do with a **200 cm long** x
-**85 cm wide** x **223 cm tall** closet in **London**?
+**83 cm wide** x **223 cm tall** closet in **London**?
 
+![closet dimensions](http://i.imgur.com/XBpybLE.png)
+
+Here's a to-scale sketchup base showing the dimensions of **The Closet** with human for reference; *not* a lot of space...
+
+
+
+**Tip**: If you have never used SketchUp, here's a link to download it
+http://help.sketchup.com/en/article/115548 (without having to register - choose SketchUp Make 2015 to avoid registration nagging messages!)
 
 # Library
 
