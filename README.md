@@ -7,7 +7,9 @@ What would ***you*** do with a **200 cm long** x
 
 Here's a to-scale sketchup base showing the ***exact dimensions*** of **The Closet** with **human** *for reference*; *not* a lot of space...
 
+And with the Skirting Board, Light Switch and Mains Socket:
 
+![closet dimensions with fixtures](http://i.imgur.com/o3usYKq.png)
 
 **Tip**: If you have never used SketchUp, here's a link to download it
 http://help.sketchup.com/en/article/115548 (without having to register - choose SketchUp Make 2015 to avoid registration nagging messages!)
@@ -163,8 +165,8 @@ https://www.stagedepot.co.uk/scenic-effects/chroma-key/paint/rosco-chroma-key-gr
 
 ### Back of the Envelope Calculation
 
-if we can get 40% occupancy at **£17 per night**
-+ £17 x 365 x 40% = £2,190 (per year Gross)
+if we can get 20% occupancy at **£15 per night** its:
+£15 * 365 * 0.20 = **£1,095** (*per year* Gross)
 
 AirBnB would take their cut and we would have
 to clean the room (change sheets etc)
