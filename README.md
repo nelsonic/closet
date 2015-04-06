@@ -1,11 +1,11 @@
 # The Closet
 
 What would ***you*** do with a **200 cm long** x
-**83 cm wide** x **223 cm tall** closet in **London**?
+**80 cm wide** x **220 cm tall** closet in **London**?
 
 ![closet dimensions](http://i.imgur.com/XBpybLE.png)
 
-Here's a to-scale sketchup base showing the dimensions of **The Closet** with human for reference; *not* a lot of space...
+Here's a to-scale sketchup base showing the ***exact dimensions*** of **The Closet** with **human** *for reference*; *not* a lot of space...
 
 
 
@@ -14,7 +14,7 @@ http://help.sketchup.com/en/article/115548 (without having to register - choose 
 
 # Library
 
-My *initial* idea for the space was to use it as storage for our (*extensive*) collection
+My ***initial idea*** for the space was to use it as storage for our (*extensive*) collection
 of Technology + Business (& other interesting) books.
 e.g:
 
