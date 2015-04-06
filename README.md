@@ -5,7 +5,7 @@ What would ***you*** do with a **200 cm long** x
 
 ![closet dimensions](http://i.imgur.com/XBpybLE.png)
 
-Here's a to-scale sketchup base showing the ***exact dimensions*** of **The Closet** with **human** *for reference*; *not* a lot of space...
+Here's a to-scale SketchUp base showing the ***exact dimensions*** of **The Closet** with **human** *for reference*; *not* a lot of space...
 
 And with the Skirting Board, Light Switch and Mains Socket:
 
@@ -114,7 +114,26 @@ be a self-contained (albeit *small*) *private* space which
 
 + Sleeping pod hotels: the new craze?  http://www.telegraph.co.uk/finance/newsbysector/constructionandproperty/11081164/Sleeping-pod-hotels-the-new-craze.html &  http://www.podtime.co.uk/podtime_case_studies.html
 
+## Constraints
 
+Given that the walls of **The Closet** are [**Plasterboard**](http://en.wikipedia.org/wiki/Drywall)
+we *cannot* simply fix shelves up using brackets & screws.
+
+![ikea bracket shelf](http://i.imgur.com/MYEYQhA.jpg)
+
+(it would be *great* if we could just put up a few "store-bought"
+shelves, but they would come crashing off the walls because plasterboard is not designed to support load...)
+
+
+# How
+
+
+## T Beams
+
+A [**T Beam**](https://www.google.co.uk/search?q=t+beam&tbm=isch)
+Will give us fantastic structural rigidity
+
+![Wood T Beam Dimensions](http://i.imgur.com/Y8iiw7L.png)
 
 ### Shopping (Long) List
 
