@@ -128,14 +128,37 @@ shelves, but they would come crashing off the walls because plasterboard is not 
 # How
 
 
-## T Beams
+## T-Beams
 
-A [**T Beam**](https://www.google.co.uk/search?q=t+beam&tbm=isch)
+A [**T-Beam**](https://www.google.co.uk/search?q=t+beam&tbm=isch)
 Will give us fantastic structural rigidity
 
 ![Wood T Beam Dimensions](http://i.imgur.com/Y8iiw7L.png)
 
+However, once we placed the T-Beam on our (virtual) skirting board
+we notice that there's a 2mm gap which means the structure would
+not be 100% stable:
+
+![gap between skirting and T-Beam](http://i.imgur.com/kPwuueR.png)
+
+This is because the 12mm Ply I'm planning on using for the T-Beams
+is 2mm wider than the 10mm skirting.
+
 ### Shopping (Long) List
+
+### Routing Table?
+
+This *might* be the project that finally "*justifies*" getting a
+decent routing table...
+
+
+
+
+### Drill Press ?
+
+This Bosch PBD Bench Drill:
+http://www.amazon.co.uk/Bosch-PBD-710W-Bench-Drill/dp/B00766C1A8
+Looks *amaze*! But I don't "*need*" it...
 
 #### Multimedia
 
@@ -181,6 +204,9 @@ http://www.diy.com/departments/blooma-steel-latch-l50mm/308545_BQ.prd (keep fold
 
 + Rosco Chroma Key Green Paint
 https://www.stagedepot.co.uk/scenic-effects/chroma-key/paint/rosco-chroma-key-green-paint or http://www.amazon.co.uk/Rosco-Chroma-Key-Green-Litres/dp/B00HT97XC8
+£59.47 (free delivery)
+
+
 
 ### Back of the Envelope Calculation
 
